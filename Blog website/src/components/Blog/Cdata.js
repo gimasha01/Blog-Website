@@ -31,7 +31,7 @@ const Cdata = [
     },
     {
       id: 6,
-      cover: "./Images/card-6.jpg",
+      cover: ".public/Images/card-6.jpg",
       category: "lifestyle",
       title: "What do you Gain from Traveling?",
     },
